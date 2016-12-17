@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Taquin">
+</Property><Property Name="Fichier solution" Value="F:\Documents\btsIg2\DA\S3 Prog\TP\TP 01 Révisions\Taquin\Taquin.sln">
+</Property><Property Name="Date" Value="jeudi 3 septembre 2015">
+</Property><Property Name="Time" Value="06:44">
+</Property></Properties><Event ErrorLevel="1" Project="Taquin" Source="Taquin.csproj" Description="Votre projet cible le .NET Framework 2.0 ou 3.0. Si votre projet utilise des assemblys qui requièrent une version plus récente du .NET Framework, votre projet ne sera pas généré. Vous pouvez modifier la version du .NET Framework en cliquant sur Propriétés dans le menu Projet et en sélectionnant une nouvelle version dans la zone déroulante '.NET Framework'. (Dans Visual Basic, cliquez sur le bouton Paramètres avancés du compilateur sous l'onglet Compiler.)">
+</Event><Event ErrorLevel="0" Project="Taquin" Source="Taquin.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="Taquin" Source="Taquin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Taquin.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="Taquin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Taquin" Source="Taquin.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

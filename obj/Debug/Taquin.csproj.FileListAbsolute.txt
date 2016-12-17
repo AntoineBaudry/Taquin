@@ -1,0 +1,44 @@
+F:\Documents\btsIg2\DA\S3 Prog\TP\TP 01 Révisions\Taquin\obj\Debug\Taquin.exe
+F:\Documents\btsIg2\DA\S3 Prog\TP\TP 01 Révisions\Taquin\obj\Debug\Taquin.pdb
+G:\Documents\btsSio\slam4\tp\tpTaquin\Taquin\obj\Debug\Taquin.exe
+G:\Documents\btsSio\slam4\tp\tpTaquin\Taquin\obj\Debug\Taquin.pdb
+G:\Documents\btsSio\slam4\tp\tpTaquin\Taquin\bin\Debug\Taquin.exe
+G:\Documents\btsSio\slam4\tp\tpTaquin\Taquin\bin\Debug\Taquin.pdb
+G:\Documents\btsSio\slam4\tp\tpTaquin\Taquin\bin\Debug\dllTaquin.pdb
+G:\Documents\btsSio\slam4\tp\tpTaquin\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+U:\bureau2014-2015\tpTaquin\Taquin\obj\Debug\Taquin.exe
+U:\bureau2014-2015\tpTaquin\Taquin\obj\Debug\Taquin.pdb
+U:\bureau2014-2015\tpTaquin\Taquin\bin\Debug\Taquin.exe
+U:\bureau2014-2015\tpTaquin\Taquin\bin\Debug\Taquin.pdb
+U:\bureau2014-2015\tpTaquin\Taquin\bin\Debug\dllTaquin.pdb
+U:\bureau2014-2015\tpTaquin\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+U:\Taquin\obj\Debug\Taquin.exe
+U:\Taquin\obj\Debug\Taquin.pdb
+U:\Taquin\bin\Debug\Taquin.exe
+U:\Taquin\bin\Debug\Taquin.pdb
+U:\Taquin\bin\Debug\dllTaquin.pdb
+U:\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+U:\SIO 2\Taquin\obj\Debug\Taquin.exe
+U:\SIO 2\Taquin\obj\Debug\Taquin.pdb
+U:\SIO 2\Taquin\bin\Debug\Taquin.exe
+U:\SIO 2\Taquin\bin\Debug\Taquin.pdb
+U:\SIO 2\Taquin\bin\Debug\dllTaquin.pdb
+U:\SIO 2\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+U:\SIO 2\SLAM 4-5\Taquin\obj\Debug\Taquin.exe
+U:\SIO 2\SLAM 4-5\Taquin\obj\Debug\Taquin.pdb
+U:\SIO 2\SLAM 4-5\Taquin\bin\Debug\Taquin.exe
+U:\SIO 2\SLAM 4-5\Taquin\bin\Debug\Taquin.pdb
+U:\SIO 2\SLAM 4-5\Taquin\bin\Debug\dllTaquin.pdb
+U:\SIO 2\SLAM 4-5\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+G:\Cours\SIO2\SLAM 4-5\Taquin\obj\Debug\Taquin.exe
+G:\Cours\SIO2\SLAM 4-5\Taquin\obj\Debug\Taquin.pdb
+G:\Cours\SIO2\SLAM 4-5\Taquin\bin\Debug\Taquin.exe
+G:\Cours\SIO2\SLAM 4-5\Taquin\bin\Debug\Taquin.pdb
+G:\Cours\SIO2\SLAM 4-5\Taquin\bin\Debug\dllTaquin.pdb
+G:\Cours\SIO2\SLAM 4-5\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
+G:\BTS SIO\E6\utiles\lesProjets\Taquin\obj\Debug\Taquin.exe
+G:\BTS SIO\E6\utiles\lesProjets\Taquin\obj\Debug\Taquin.pdb
+G:\BTS SIO\E6\utiles\lesProjets\Taquin\bin\Debug\Taquin.exe
+G:\BTS SIO\E6\utiles\lesProjets\Taquin\bin\Debug\Taquin.pdb
+G:\BTS SIO\E6\utiles\lesProjets\Taquin\bin\Debug\dllTaquin.pdb
+G:\BTS SIO\E6\utiles\lesProjets\Taquin\obj\Debug\Taquin.csprojResolveAssemblyReference.cache
